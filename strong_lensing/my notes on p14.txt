@@ -1,0 +1,64 @@
+The best fit parameters were found in iteration p13b viii and they are: 
+
+      sigma of            1 -th mass:
+           to      299.99999999219688       from    120.00000000000000       0  
+      sigma of            2 -th mass:
+           to      238.29649298032993       from    120.00000000000000       0  
+ x-position of            3 -th mass:
+           to      1184.1199751216084       from    1205.8349609375000       0  
+ y-position of            3 -th mass:
+           to      361.21377310653105       from    388.04998779296875       0  
+      sigma of            3 -th mass:
+           to      1291.8169952140020       from    1300.0000000000000       0  
+       core of            3 -th mass:
+           to      51.807214313599232       from    30.000000000000000       0  
+        eps of            3 -th mass:
+           to      3.9382183985696609E-002  from    5.0000000745058060E-002  0  
+        phi of            3 -th mass:
+           to      53.661327212796088       from    60.000000000000000       0  
+
+
+We do six iterations: 
+
+p14i 		We set an extremely tight constraint on the max core radius of the cluster cor_max = 20 and cor= 10
+p14ii 		Reverting back to cor_max = 200 and cor=30 +  A lower limit for the ellipticity of the model, so eps_min(j) nmass * 0.1 instead of 0.02
+p14iii 		An additional extreme upper limit to the to the ellipticity, e.g. eps_max(j) nmass * 0.6 instead of 0.2
+p14iv 		Reverting back the ellipticities to eps_min = 0.02 and eps_max = 0.2 but allowing the cluster, G1 and G2 center to change e.g. we had input (because we thought that's where we should input the errors of our measurements): 
+
+! 
+!     starting values and min/max values 
+!
+!                  G1   G2    Cl   
+      DATA ce1    /1122.1 , 1067.8, 1184. /
+      DATA ce1_min/1114.462, 1060.549, 1150.353/
+      DATA ce1_max/1128.978, 1075.064, 1255.799/
+      !
+      DATA ce2    / 699.3, 746.3, 361./
+      DATA ce2_min/ 680.619, 738.680, 330.568/
+      DATA ce2_max/ 701.355, 753.195, 430.532/
+
+we could vary the position of G1 and G2 with 
+
+DATA Nvary_ce1  / 1, 1, 1/     ! change this for P14
+DATA Nvary_ce2  / 1, 1, 1/ 
+
+
+by going pm 200 (y direction) and 100 (in x direction) in each direction from the center of G1, G2 and Cl respectively: 
+
+!                  G1   G2    Cl   
+      DATA ce1    	/1122.1,	 1067.8,	 1184. /
+      DATA ce1_min	/922, 		868, 		984/
+      DATA ce1_max	/1322, 		1257, 		1384/
+      !
+      DATA ce2    / 699.3, 	746.3, 		361./
+      DATA ce2_min/ 599, 	646, 		261/
+      DATA ce2_max/ 800, 	846, 		461/
+
+
+p15v		Finally, fixing the positions again by doing 
+
+DATA Nvary_ce1  / 0, 0, 1/     ! change this for P14
+DATA Nvary_ce2  / 0, 0, 1/ 
+
+and reverting back to the old ce1_min, max and ce2_min,max for the Cluster, (actually I did no such thing since this looks really good already)  we use an elliptical model for both galaxies instead of a SIS and investigate. Dont forget to then vary the core, eps and phi for the galaxies. 
+

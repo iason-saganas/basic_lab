@@ -1,0 +1,50 @@
+ func after punishment   1.7216059945317548     
+   1.7216059938781869     
+ func after punishment   1.7216059938781869     
+ try to change sign of determinant sys           1
+   1.7216059943262649     
+ func after punishment   1.7216059943262649     
+   1.7216059940766324     
+ func after punishment   1.7216059940766324     
+ try to change sign of determinant sys           1
+   1.7216059942477890     
+ func after punishment   1.7216059942477890     
+   1.7216059941524204     
+ func after punishment   1.7216059941524204     
+ try to change sign of determinant sys           1
+   1.7216059942177897     
+ func after punishment   1.7216059942177897     
+   1.7216059941813722     
+ func after punishment   1.7216059941813722     
+ try to change sign of determinant sys           1
+   1.7216059942063642     
+ func after punishment   1.7216059942063642     
+   1.7216059941924216     
+ func after punishment   1.7216059941924216     
+ try to change sign of determinant sys           1
+   1.7216059942026583     
+ func after punishment   1.7216059942026583     
+   1.7216059941958866     
+ func after punishment   1.7216059941958866     
+ try to change sign of determinant sys           1
+   1.7216059941992645     
+ func after punishment   1.7216059941992645     
+   1.7216059941992645     
+ results
+ x-position of            3 -th mass:
+           to      1189.8542024131593       from    1184.0000000000000       0  
+ y-position of            3 -th mass:
+           to      399.63498684475894       from    361.00000000000000       0  
+      sigma of            3 -th mass:
+           to      1314.3983717308447       from    1300.0000000000000       0  
+       core of            3 -th mass:
+           to      28.874635622632166       from    30.000000000000000       0  
+        eps of            3 -th mass:
+           to      4.0376731054208650E-002  from    5.0000000745058060E-002  0  
+        phi of            3 -th mass:
+           to      69.438843915075310       from    60.000000000000000       0  
+ number of points where shearfield is estimated        2916
+ drawscale   30.000000000000000     
+ laenge des herausgeschriebenen vektors        2916
+ start searching for new images
+           4  positions done

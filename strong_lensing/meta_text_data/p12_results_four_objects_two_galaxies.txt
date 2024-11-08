@@ -1,0 +1,50 @@
+ func after punishment   104.92181377377938     
+   4.9218057730248930     
+ func after punishment   4.9218057730248930     
+   4.9218056181585892     
+ in pun too large           1   300.00000336914360        300.00000000000000     
+ func after punishment   104.92180573166988     
+   4.9218057138711870     
+ func after punishment   4.9218057138711870     
+   4.9218056547175131     
+ func after punishment   4.9218056547175131     
+   4.9218056407532629     
+ func after punishment   4.9218056407532629     
+   4.9218056321228625     
+ func after punishment   4.9218056321228625     
+   4.9218056267889674     
+ in pun too large           1   300.00000108279528        300.00000000000000     
+ func after punishment   104.92180563851342     
+   4.9218056354193660     
+ func after punishment   4.9218056354193660     
+   4.9218056300854700     
+ in pun too large           1   300.00000020948801        300.00000000000000     
+ func after punishment   104.92180563052432     
+   4.9218056333819886     
+ func after punishment   4.9218056333819886     
+   4.9218056313446272     
+ func after punishment   4.9218056313446272     
+   4.9218056308636777     
+ in pun too large           1   300.00000000332813        300.00000000000000     
+ func after punishment   104.92180563086379     
+   4.9218056313446272     
+ func after punishment   4.9218056313446272     
+   4.9218056313446272     
+ results
+      sigma of            1 -th mass:
+           to      299.99999987591428       from    120.00000000000000       0  
+      sigma of            2 -th mass:
+           to      267.88460796983304       from    120.00000000000000       0  
+      sigma of            3 -th mass:
+           to      1259.6717130314751       from    1300.0000000000000       0  
+       core of            3 -th mass:
+           to      59.223442493514014       from    30.000000000000000       0  
+        eps of            3 -th mass:
+           to      2.1036438381747690E-002  from    5.0000000745058060E-002  0  
+        phi of            3 -th mass:
+           to      51.459118895454452       from    60.000000000000000       0  
+ number of points where shearfield is estimated        2916
+ drawscale   30.000000000000000     
+ laenge des herausgeschriebenen vektors        2916
+ start searching for new images
+           4  positions done

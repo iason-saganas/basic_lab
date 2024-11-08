@@ -1,0 +1,50 @@
+ func after punishment   198076834.99827766     
+ try to change sign of determinant sys           1
+   27.893392264630972     
+ in pun too large           4   388.04998393794790        288.53201293945312     
+ in pun too small           4   388.04998393794790        487.56799316406250        98085931.075300217     
+ func after punishment   198076835.01325503     
+ try to change sign of determinant sys           1
+   27.893468147423807     
+ in pun too large           4   388.04998393794790        288.53201293945312     
+ in pun too small           4   388.04998393794790        487.56799316406250        98085931.075300217     
+ func after punishment   198076835.01333091     
+ try to change sign of determinant sys           1
+   27.893430204398275     
+ in pun too large           4   388.04998393794790        288.53201293945312     
+ in pun too small           4   388.04998393794790        487.56799316406250        98085931.075300217     
+ func after punishment   198076835.01329297     
+ try to change sign of determinant sys           1
+   27.893412578087592     
+ in pun too large           4   388.04998393794790        288.53201293945312     
+ in pun too small           4   388.04998393794790        487.56799316406250        98085931.075300217     
+ func after punishment   198076835.01327533     
+ try to change sign of determinant sys           1
+   27.893412578087592     
+ in pun too large           4   388.04998393794790        288.53201293945312     
+ in pun too small           4   388.04998393794790        487.56799316406250        98085931.075300217     
+ func after punishment   198076835.01327533     
+ try to change sign of determinant sys           1
+   198076835.83634624     
+ results
+      sigma of            1 -th mass:
+           to      100.00280166144148       from    120.00000000000000       0  
+      sigma of            2 -th mass:
+           to      100.00108078186966       from    120.00000000000000       0  
+ x-position of            3 -th mass:
+           to      1177.1748968892205       from    1205.8349609375000       0  
+ y-position of            3 -th mass:
+           to      388.04998393794790       from    388.04998779296875       0  
+      sigma of            3 -th mass:
+           to      1246.8541568378130       from    1300.0000000000000       0  
+       core of            3 -th mass:
+           to      68.288272774086309       from    30.000000000000000       0  
+        eps of            3 -th mass:
+           to      5.0243074565095552E-002  from    5.0000000745058060E-002  0  
+        phi of            3 -th mass:
+           to      62.260485223470752       from    60.000000000000000       0  
+ number of points where shearfield is estimated        2916
+ drawscale   30.000000000000000     
+ laenge des herausgeschriebenen vektors        2916
+ start searching for new images
+           5  positions done
